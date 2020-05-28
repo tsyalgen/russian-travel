@@ -2,7 +2,7 @@
   background-image: url('../../../images/lead__image.jpg');
   background-size: cover;
   background-repeat: round;
-  margin: 45px 0 8px 0;;
+  margin: 0 0 8px 0;;
   width: 984px;
   height: 615px;
 }
@@ -29,7 +29,7 @@
   }
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 424px) {
   .lead__image {
     width: 320px;
     height: 200px;
