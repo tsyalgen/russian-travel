@@ -22,7 +22,7 @@
   top: 0;
   bottom: 0;
   background-color: black;
-  background-size: cover;
+  object-fit: contain;
   opacity: 0.2;
 }
 
@@ -45,6 +45,13 @@
 }
 
 @media screen and (max-width: 425px) {
+  .cover__overlay {
+    min-height: 375px;
+    margin: 64px auto ;
+  }
+}
+
+@media screen and (max-width: 375px) {
   .cover__overlay {
     min-height: 200px;
     margin: 64px auto ;
