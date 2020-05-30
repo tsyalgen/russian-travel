@@ -12,3 +12,5 @@
 ### Технологии
 
 Использованы HTML, CSS, flex, grid, BEM, RWD. Для просмотра необходим лишь браузер.
+
+https://tsyalgen.github.io/russian-travel/
