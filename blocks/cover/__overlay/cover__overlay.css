@@ -6,11 +6,12 @@
   align-items: center;
   justify-content: center;
   background-image: url('../../../images/cover__background.jpg');
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  /*background-position: center;*/
   max-width: 1184px;
-  min-height: 740px;
+  max-height: 740px;
+  padding: 15% 0;
   text-decoration: none;
 }
 
@@ -34,20 +35,20 @@
 
 @media screen and (max-width: 1024px) {
   .cover__overlay {
-    min-height: 640px;
+    max-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
-    min-height: 480px;
+    max-height: 480px;
     margin: 86px auto ;
   }
 }
 
 @media screen and (max-width: 425px) {
   .cover__overlay {
-    min-height: 375px;
+    max-height: 375px;
     margin: 64px auto ;
   }
 }
