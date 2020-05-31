@@ -28,14 +28,14 @@
 }
 
 
-@media screen and (max-width: 767px) {
+/*@media screen and (max-width: 767px) {
   .photo-grid {
     max-width: 580px;
     min-height: 2000px;
     grid-gap: 12px;
     padding-top: 64px;
   }
-}
+}*/
 
 @media screen and (max-width: 620px) {
   .photo-grid {
