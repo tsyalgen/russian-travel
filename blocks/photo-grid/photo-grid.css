@@ -3,7 +3,7 @@
 .photo-grid {
   max-width: 1184px;
   width: 95%;
-  min-height: 671px;
+  /*min-height: 671px;*/
   display: grid;
   margin: 0 auto;
   padding: 92px 0 12px 0;
@@ -14,7 +14,7 @@
 @media screen and (max-width: 1246px) {
   .photo-grid {
     max-width: 928px;
-    min-height: 942px;
+    /*min-height: 942px;*/
     grid-gap: 14px;
   }
 }
@@ -22,7 +22,7 @@
 @media screen and (max-width: 927px) {
   .photo-grid {
     max-width: 720px;
-    min-height: 1664px;
+    /*min-height: 1664px;*/
     padding-top: 88px;
   }
 }
@@ -40,7 +40,7 @@
 @media screen and (max-width: 620px) {
   .photo-grid {
     max-width: 288px;
-    min-height: 2724px;
+    /*min-height: 2724px;*/
     grid-gap: 12px;
     padding-top: 64px;
   }
