@@ -2,7 +2,7 @@
 
 .photo-grid {
   max-width: 1184px;
-  width: 95%;
+  width: 100%;
   /*min-height: 671px;*/
   display: grid;
   margin: 0 auto;

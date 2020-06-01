@@ -1,0 +1,9 @@
+.footer__link-indent {
+
+}
+
+@media screen and (max-width: 620px) {
+  .footer__link-indent {
+    margin-bottom: 32px;
+  }
+}
