@@ -1,0 +1,7 @@
+.header__lang-link-indent {
+  margin-left: 18px;
+}
+
+.header__lang-link-indent:first-of-type {
+  margin-left: 0;
+}
