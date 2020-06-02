@@ -10,7 +10,7 @@
   display: grid;
   margin: 0 auto;
   padding-top: 80px;
-  width: 77%;
+  width: 83%;
   max-width: 984px;
   grid-template-columns: 1fr 1.05fr ;
   grid-row-gap: 48px;
