@@ -10,6 +10,6 @@
   .footer__links {
     flex-direction: column;
     /*justify-content: space-around;
-    min-height: 280px;*/
+    min-height: 280px; - это закомментировано, тобишь не работает*/
   }
 }
